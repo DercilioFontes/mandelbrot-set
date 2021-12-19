@@ -1,0 +1,6 @@
+.text {
+  font-family: "Nanum Gothic Coding";
+  z-index: 1;
+  position: fixed;
+  margin-left: 1%;
+}
